@@ -1,0 +1,16 @@
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\bin\Debug\net8.0-windows\Calculator_design.exe
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\bin\Debug\net8.0-windows\Calculator_design.deps.json
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\bin\Debug\net8.0-windows\Calculator_design.runtimeconfig.json
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\bin\Debug\net8.0-windows\Calculator_design.dll
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\bin\Debug\net8.0-windows\Calculator_design.pdb
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.devition.resources
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.csproj.GenerateResource.cache
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.AssemblyInfoInputs.cache
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.AssemblyInfo.cs
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.csproj.CoreCompileInputs.cache
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.dll
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\refint\Calculator_design.dll
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.pdb
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\Calculator_design.genruntimeconfig.cache
+C:\Users\nuwan akalanka\Desktop\Semester 3\Visual application programming\Calculator_design\Calculator_design\obj\Debug\net8.0-windows\ref\Calculator_design.dll
